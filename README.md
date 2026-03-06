@@ -50,10 +50,9 @@ Product Leadership          █████████████████�
 
 ## 🏢 Career Highlights
 
-**🔵 Skyscanner** *(2019–Present)* — Senior Principal Product, B2B Industry Solutions
-- Architecting agentic AI framework & MCP server infrastructure
+**🔵 Skyscanner** *(2019–Present)* — Principal Product, B2B Industry Solutions
+- Architecting an agentic AI framework & MCP server infrastructure
 - Rebuilt Ads into a data-driven engine → **400%+ revenue growth**
-- Secured executive funding for Skyscanner's AI growth pillar
 
 **🟣 Sabre** *(2015–2019)* — Senior Product Manager
 - Launched next-gen booking engine → **+75% hotel revenue uplift**
