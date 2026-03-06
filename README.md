@@ -17,7 +17,7 @@
 
 I'm a **Senior Product Leader with 15+ years** building AI/ML platforms, agentic systems, and data-driven products that scale globally.
 
-Currently at **Skyscanner**, I'm defining the company's AI-first strategy — architecting the *Skyscanner Intelligence* agentic framework, building MCP servers for AI agent integration, and launching GPT-powered mini apps. I secured executive funding to position AI as Skyscanner's **third growth pillar** alongside Ads and Flights.
+Currently at **Skyscanner**, I'm defining the company's AI-first strategy — architecting vision *Skyscanner Intelligence* agentic framework, building MCP servers for AI agent integration, and launching ChatGPT mini apps. 
 
 Before that, I've shipped products used by **100M+ travellers** at Sabre, built **0→1 ML pricing engines** at RateGain, and led 1,500-person operations at [24]7.ai where I launched one of the earliest enterprise AI chatbots.
 
